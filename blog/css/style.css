@@ -207,3 +207,6 @@ hr{
 .side_text {
     font-size: 11px;
 }
+time{
+    font-style: italic;
+}
